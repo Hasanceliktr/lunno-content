@@ -1,0 +1,13 @@
+{
+  "id": "story_yeni_hikaye",
+  "titleKey": "story_yeni_hikaye",
+  "authorKey": "author_new",
+  "duration": "8 min",
+  "category": "bedtime",
+  "isPremium": false,
+  "imageUrl": "assets/images/story_default.png",
+  "audioUrls": {
+    "en": "https://raw.githubusercontent.com/[KULLANICI]/lunno-content/main/audio/story_yeni_hikaye/en.mp3",
+    "tr": "https://raw.githubusercontent.com/[KULLANICI]/lunno-content/main/audio/story_yeni_hikaye/tr.mp3"
+  }
+}
