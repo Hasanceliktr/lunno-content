@@ -8,8 +8,8 @@
         "duration": "5 min",
         "imageUrl": "assets/icon/app_icon_solid.png",
         "audioUrls": {
-            "en": "https://raw.githubusercontent.com/Hasanceliktr/lunno-content/main/audio/uykutelkini.mp3",
-            "tr": "https://raw.githubusercontent.com/Hasanceliktr/lunno-content/main/audio/uykutelkini.mp3"
+            "en": "https://raw.githubusercontent.com/Hasanceliktr/lunno-content/main/uykutelkini.mp3",
+            "tr": "https://raw.githubusercontent.com/Hasanceliktr/lunno-content/main/tr.mp3"
         },
         "isPremium": false,
         "category": "bedtime"
